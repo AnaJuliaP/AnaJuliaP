@@ -1,6 +1,6 @@
 ###  Hi👋, I'm Ana Júlia.😊
 ### 📚I'm currently a software engineering student. 
-### 💻I'm currently learning to program in MySQL.
+### 💻I'm currently learning to program in JavaScript and Angular.
 ### 📧How to reach me: anajuliapad@gmail.com
 
 ### Connect with me: 
